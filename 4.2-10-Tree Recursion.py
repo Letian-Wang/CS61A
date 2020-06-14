@@ -1,6 +1,6 @@
 ''' Order of recursion '''
 def cascade(n):
-    if n < 10:                                                          # Base statement can help to understand
+    if n < 10:           # Base statement can help to understand
         print(10)
     else:
         print(n)
